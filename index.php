@@ -1,5 +1,3 @@
 <?php
-
-echo "Hello World TESTE CARALHOOO!!!!"
-
+echo "OLA MUNDO TESTE CARALHOOO!!!!"
 ?>
